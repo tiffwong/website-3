@@ -72,19 +72,19 @@
        transform="matrix(1.0018127,0,0,1.0235366,-12.55623,-9.5618785)"
        id="g3779"
        style="font-size:40px;font-style:normal;font-weight:500;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.00037885;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Sans;-inkscape-font-specification:Megrim Medium">
-      <text
-         xml:space="preserve"
-         style="font-size:39.50163269px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Megrim;-inkscape-font-specification:Megrim Bold"
-         x="104.11145"
-         y="368.49521"
-         id="text3866"
-         sodipodi:linespacing="125%"
-         transform="scale(1.0107841,0.98933091)"><tspan
-           sodipodi:role="line"
-           id="tspan3868"
-           x="104.11145"
-           y="368.49521"
-           style="font-size:9.87540817px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:-1.52081287px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:Megrim;-inkscape-font-specification:Megrim Bold">&gt;&gt;</tspan></text>
+      <g
+         transform="scale(1.0107841,0.98933091)"
+         style="font-size:39.50163269000000099px;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;fill:#ffffff;stroke:none;font-family:Megrim;-inkscape-font-specification:Megrim Bold;fill-opacity:1"
+         id="text3866">
+        <path
+           d="m 108.02211,365.03882 -3.04162,3.04162 -0.20739,-0.20738 2.83424,-2.83424 -2.83424,-2.83425 0.20739,-0.20738 3.04162,3.04163"
+           style="font-size:9.87540817000000004px;text-align:start;line-height:125%;letter-spacing:-1.52081287000000009px;writing-mode:lr-tb;text-anchor:start;font-family:Megrim;-inkscape-font-specification:Megrim Bold;fill:#ffffff;fill-opacity:1"
+           id="path3936" />
+        <path
+           d="m 110.84108,365.03882 -3.04163,3.04162 -0.20738,-0.20738 2.83424,-2.83424 -2.83424,-2.83425 0.20738,-0.20738 3.04163,3.04163"
+           style="font-size:9.87540817000000004px;text-align:start;line-height:125%;letter-spacing:-1.52081287000000009px;writing-mode:lr-tb;text-anchor:start;font-family:Megrim;-inkscape-font-specification:Megrim Bold;fill:#ffffff;fill-opacity:1"
+           id="path3938" />
+      </g>
     </g>
   </g>
 </svg>
