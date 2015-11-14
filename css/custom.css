@@ -5,3 +5,8 @@
     margin-left: 3px;
     margin-right: 3px;
 }
+
+/* CUSTOM CSS */
+a {
+    text-decoration: none;
+}
