@@ -1,0 +1,14 @@
+/* CUSTOM CLASSES */
+
+.icons {
+    color: #333333;
+    margin-left: 3px;
+    margin-right: 3px;
+}
+
+/* CUSTOM CSS */
+a {
+    color: inherit;
+    text-decoration: none;
+}
+

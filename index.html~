@@ -27,9 +27,9 @@
         <p></p>
         <p class="view">
             <h5><small>
-            <a href="https://github.com/tiffwong">GITHUB &nbsp</a>
-            <a href="https://www.linkedin.com/in/tiffyanwong">LINKEDIN &nbsp</a>
-            <a href="https://www.linkedin.com/in/tiffyanwong">RESUME</a>
+            <a href="https://github.com/tiffwong" title="Github">GITHUB &nbsp</a>
+            <a href="https://www.linkedin.com/in/tiffyanwong" title="LinkedIn">LINKEDIN &nbsp</a>
+            <a href="https://www.linkedin.com/in/tiffyanwong" title="LinkedIn">RESUME</a>
             </small></h5>
         </p>
         
