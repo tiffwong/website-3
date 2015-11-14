@@ -36,38 +36,6 @@ h1 {
 	font-weight: 500;
 	line-height: 21.12px;
 }
-h3 {
-	font-family: Futura, 'Trebuchet MS', Arial, sans-serif;
-	font-size: 14px;
-	font-style: normal;
-	font-variant: normal;
-	font-weight: 500;
-	line-height: 12.32px;
-}
-p {
-	font-family: Futura, 'Trebuchet MS', Arial, sans-serif;
-	font-size: 14px;
-	font-style: normal;
-	font-variant: normal;
-	font-weight: 400;
-	line-height: 16px;
-}
-blockquote {
-	font-family: Futura, 'Trebuchet MS', Arial, sans-serif;
-	font-size: 21px;
-	font-style: normal;
-	font-variant: normal;
-	font-weight: 400;
-	line-height: 24px;
-}
-pre {
-	font-family: Futura, 'Trebuchet MS', Arial, sans-serif;
-	font-size: 13px;
-	font-style: normal;
-	font-variant: normal;
-	font-weight: 400;
-	line-height: 14.8571px;
-}
 
 /* ROTATING WORDS
  * Source: http://codepen.io/amritsinghlotay/pen/qERPmW/
@@ -81,6 +49,8 @@ pre {
     -ms-animation: topToBottom 12.5s linear infinite 0s;
     -webkit-animation: topToBottom 12.5s linear infinite 0s;
     color: #777777;
+font-family: Futura, 'Trebuchet MS', Arial, sans-serif;
+	font-size: 24px;
     opacity: 0;
     overflow: hidden;
     position: absolute;
