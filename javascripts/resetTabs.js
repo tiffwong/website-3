@@ -1,4 +1,4 @@
-function reset_tabs(){
+function resetTabs(){
 			$("#content > div").hide();
 			$("#tabs a").attr("id","");     
 }
@@ -16,7 +16,7 @@ var myUrlTabName = myUrlTab.substring(0,4);
 		if ($(this).attr("id") == "current"){
 			  return       
 		} else{             
-		  reset_tabs();
+		  resetTabs();
 		  $(this).attr("id","current");
 	  	$($(this).attr('name')).fadeIn();
 	 	}
