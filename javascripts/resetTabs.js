@@ -1,6 +1,6 @@
 function resetTabs(){
-			$("#content > div").hide();
-			$("#tabs a").attr("id","");     
+	$("#content > div").hide();
+	$("#tabs a").attr("id","");     
 }
 		
 var myUrl        = window.location.href;
