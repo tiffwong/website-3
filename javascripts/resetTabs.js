@@ -8,7 +8,7 @@ var myUrlTab     = myUrl.substring(myUrl.indexOf("#"));
 var myUrlTabName = myUrlTab.substring(0,4);
 	
 (function() {
-	$("#content > div > section").hide(); 
+	$("#content > div").hide(); 
 	$("#tabs li:first a").attr("id","current");
 	$("#content > div:first").fadeIn(); 
 	$("#tabs a").on("click",function(e) {
