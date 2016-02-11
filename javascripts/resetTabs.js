@@ -7,7 +7,7 @@ var myUrl        = window.location.href;
 var myUrlTab     = myUrl.substring(myUrl.indexOf("#"));    
 var myUrlTabName = myUrlTab.substring(0,4);
 	
-(function() {
+function() {
 	$("#content > div").hide(); 
 	$("#tabs li:first a").attr("id","current");
 	$("#content > div:first").fadeIn(); 
@@ -29,4 +29,4 @@ var myUrlTabName = myUrlTab.substring(0,4);
 			$(myUrlTab).fadeIn();
 		}
 	}
-})()
+}()
