@@ -7,8 +7,8 @@ var myUrl        = window.location.href;
 var myUrlTab     = myUrl.substring(myUrl.indexOf("#"));    
 var myUrlTabName = myUrlTab.substring(0,4);
 	
-function() {
-	$("#content > div").hide(); 
+(function() {
+	$("#content > div > section > div").hide(); 
 	$("#tabs li:first a").attr("id","current");
 	$("#content > div:first").fadeIn(); 
 	$("#tabs a").on("click",function(e) {
@@ -29,4 +29,4 @@ function() {
 			$(myUrlTab).fadeIn();
 		}
 	}
-}()
+})()
