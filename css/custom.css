@@ -28,6 +28,15 @@ h1 {
 	line-height: 21.12px;
 }
 
+#consolas {
+	font-family: Consolas, monaco, monospace;
+	font-size: 10px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 20px;
+}
+
 /* TABS: http://red-team-design.com/google-play-minimal-tabs-with-css3-jquery/ */
 #tabs {
 	overflow: hidden;
