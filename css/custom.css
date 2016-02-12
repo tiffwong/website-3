@@ -28,8 +28,8 @@ h1 {
     line-height: 21.12px;
 }
 
-.courier {
-    font-family: 'Courier New', Courier, 'Lucida Sans Typewriter', 'Lucida Typewriter', monospace;
+.consolas {
+    font-family: Consolas, monaco, monospace;
     font-size: 12px;
     font-style: normal;
     font-variant: normal;
