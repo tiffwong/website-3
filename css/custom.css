@@ -28,7 +28,7 @@ h1 {
     line-height: 21.12px;
 }
 
-#consolas {
+.consolas {
     font-family: Consolas, monaco, monospace;
     font-size: 10px;
     font-style: normal;
